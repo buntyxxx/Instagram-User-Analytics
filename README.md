@@ -1,12 +1,12 @@
 # Instagram-User-Analytics
-----
+---
 
 Imagine you're a data analyst working with the product team at Instagram. Your role involves analyzing user interactions and engagement with the Instagram app to provide valuable insights that can help the business grow.
 User analysis involves tracking how users engage with a digital product, such as a software application or a mobile app. The insights derived from this analysis can be used by various teams within the business. For example, the marketing team might use these insights to launch a new campaign, the product team might use them to decide on new features to build, and the development team might use them to improve the overall user experience.
 In this project, you'll be using SQL and MySQL Workbench as your tool to analyze Instagram user data and answer questions posed by the management team. Your insights will help the product manager and the rest of the team make informed decisions about the future direction of the Instagram app.
 Remember, the goal of this project is to use your SQL skills to extract meaningful insights from the data. Your findings could potentially influence the future development of one of the world's most popular social media platforms.
 
-----
+---
 
 
 A)Marketing Analysis:
@@ -28,5 +28,26 @@ User Engagement: Investors want to know if users are still active and posting on
 Your Task: Calculate the average number of posts per user on Instagram. Also, provide the total number of photos on Instagram divided by the total number of users.
 Bots & Fake Accounts: Investors want to know if the platform is crowded with fake and dummy accounts.
 Your Task: Identify users (potential bots) who have liked every single photo on the site, as this is not typically possible for a normal user.
+
+
+---
+
+## Licence 📜
+
+You may use this tutorial freely at your own risk. See [LICENSE]
+
+Copyright (c) 2024 Buntyxxx
+
+---
+
+<div align="center">
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+</h3> 
+<p align="center">
+    <a href="https://www.linkedin.com/in/krishnasai-chenchala-812a06128/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
+    <a href="area51organisation@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+</p> 
+
+
 
 
