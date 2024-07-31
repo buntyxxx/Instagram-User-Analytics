@@ -21,6 +21,7 @@ Hashtag Research: A partner brand wants to know the most popular hashtags to use
 Your Task: Identify and suggest the top five most commonly used hashtags on the platform.
 Ad Campaign Launch: The team wants to know the best day of the week to launch ads.
 Your Task: Determine the day of the week when most users register on Instagram. Provide insights on when to schedule an ad campaign.
+![6](https://github.com/user-attachments/assets/945696c0-916b-4ab6-b408-095e728f2158)
 
 B) Investor Metrics:
 
@@ -28,6 +29,7 @@ User Engagement: Investors want to know if users are still active and posting on
 Your Task: Calculate the average number of posts per user on Instagram. Also, provide the total number of photos on Instagram divided by the total number of users.
 Bots & Fake Accounts: Investors want to know if the platform is crowded with fake and dummy accounts.
 Your Task: Identify users (potential bots) who have liked every single photo on the site, as this is not typically possible for a normal user.
+![5](https://github.com/user-attachments/assets/b5c28a4c-55d0-48d6-afb5-f4bb3803dd99)
 
 
 ---
